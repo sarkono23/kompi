@@ -1,5 +1,5 @@
 {
-  "name": "Omboolom.blogspot.com",
+  "name": "Omboolom",
   "short_name": "Omboolom",
   "start_url": "https://omboolom.blogspot.com/?m=1",
   "display": "standalone",
@@ -35,3 +35,4 @@
     "sizes": "512x512",
     "type": "image/png"
   }]
+}
